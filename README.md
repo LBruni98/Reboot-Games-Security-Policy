@@ -17,3 +17,9 @@ Malware is seen as a common threat in organizations. It takes the form of applic
 
 Trojans are the more dangerous form of malware, acting as normal software in presentation and could come along with sites that look authentic. When the user downloads them, they expect a proper program but as soon as they open it, the payload is active and can instantly infect or damage a computer 
 #####
+
+#### ISO Standards
+The ISO (International Standardization Organization) are an independant organization dedicated to creating standards in every industry. These standards are mainly guidelines for products, services and systems to ensure safety, efficency and quality, even encouraging innovation and aids in providing solutions.
+
+##### ISO 31000
+The ISO 31000 is one of their standards dedicated towards risk management, made up of individual documents made to help an organization with managing risk and helps out in achieving objectives. ISO 31000:2009 is one of the guidelines that comes under ISO 31000, with how the businesss can manage risk and can be used by any business regardless of size or sector.
