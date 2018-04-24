@@ -14,6 +14,9 @@
 4. ISO Standards
   4.1 ISO 31000
 5. Security Procedures
+  5.1 Logging In
+  5.2 Entering the Establishement
+  5.3 Uploading Work
 6. Data Protection
 7. Disaster Recovery Plan
 ```
@@ -43,6 +46,9 @@ The ISO (International Standardization Organization) are an independant organiza
 The ISO 31000 is one of their standards dedicated towards risk management, made up of individual documents made to help an organization with managing risk and helps out in achieving objectives. ISO 31000:2009 is one of the guidelines that comes under ISO 31000, with how the businesss can manage risk and can be used by any business regardless of size or sector.
 
 ### 5. Security Procedures
+#### 5.1 Logging In
+#### 5.2 Entering the Establishement
+#### 5.3 Uploading Work
 
 ### 6. Data Protection
 
