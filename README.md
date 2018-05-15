@@ -43,6 +43,7 @@ Malware is seen as a common threat in organizations. It takes the form of applic
 Trojans are the more dangerous form of malware, acting as normal software in presentation and could come along with sites that look authentic. When the user downloads them, they expect a proper program but as soon as they open it, the payload is active and can instantly infect or damage a computer 
 
 #### 3.2 Viruses
+#### 3.3 Spam
 
 ### 4. ISO Standards
 The ISO (International Standardization Organization) are an independent organization dedicated to creating standards in every industry. These standards are mainly guidelines for products, services and systems to ensure safety, efficiency and quality, even encouraging innovation and aids in providing solutions.
