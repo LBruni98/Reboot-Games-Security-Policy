@@ -80,6 +80,10 @@ Security procedures are used to enforce the hazards that can be prominent in the
 
 ### 7. Improving Network Security
 #### 7.1 DMZ
+A Demilitarized Zone or DMZ, in computer network terms, is sub-network that can be physical or logical that separates an internal or private LAN, Local Area Network, from any public networks. The DMZ has the external resources and services situated inside which makes it accessible from the internet. However, the internal LAN is unreachable because of the internet being part of the DMZ, providing the LAN with an extra layer of security.
+
+The reason being that the DMZ is added as a layer of security is that as it blocks off the internal LAN, hackers can’t access the internal servers and data by means of the internet. Any service that can reached by the hacker, such as email, DNS, FTP, etc. are put into the DMZ, so any attack can mean that the private LAN is safe. A common way to do this is by having two firewalls, one for the internet and the server, and the other for the sever and the private LAN, where access to said LAN would be forbidden.
+
 #### 7.2 Static IP
 #### 7.3 NAT
 
