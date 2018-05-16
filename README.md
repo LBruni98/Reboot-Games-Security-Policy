@@ -19,6 +19,7 @@
 7. Disaster Recovery Plan
 ```
 ### 1. Outline of Business
+#### 1.1 Overview
 
 ### 2. Risk Assessment
 #### 2.1 Risks in an Organisation
@@ -63,7 +64,9 @@ Security procedures are used to enforce the hazards that can be prominent in the
 #### 5.2 Entering the Establishement
 #### 5.3 Uploading Work
 
-### 6. Data Protection
+### 6. The Impact of Poor Implementation
+### 7. Improving Network Security
+### 8. Data Protection
 * process 
 * compliant with regulations
-### 7. Disaster Recovery Plan
+### 9. Disaster Recovery Plan
