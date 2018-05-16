@@ -20,20 +20,25 @@
 ```
 ### 1. Outline of Business
 
-### 2. Risks
-#### 2.1 Theft of Hardware
+### 2. Risk Assessment
+#### 2.1 Risks in an Organisation
+##### 2.1.1 Theft of Hardware
 Hardware theft can happen within the company. Many cases of this fall to poor security of the workplace, which will allow for people to breach and steal any storage device or even a computer, mainly because of important data being stored in these machines or devices, mainly data such as employee information or log in information.
 
-To prevent hardware theft, the facility must be fitted with good security systems to prevent future break ins, time-locks or alarm systems. Lock up devices and keep them hidden to lower the chance of them being found and keep systems held tight with cables and heavy duty locks to prevent the systems from going mobile. If all fails, a hidden layer of security must be in place; system tracking software to maintain the position of where the systems are in the hands of the robber.
-
-#### 2.2 Data Loss/Theft
+##### 2.1.2 Data Loss/Theft
 Data Loss is where data is commonly lost, stolen, deleted or corrupted. In different cases, data could be lost or deleted due to human negligence and could be down to factors, such as making it unreadable or accidental deletion, as well as overwriting. There is a chance that data can be corrupted because of software or failure of a physical storage device; this data however may be recovered. In a worst case scenario, data can be stolen in either way; having someone steal a physical format or gaining unauthorized access into a website or system and stealing information digitally.
 
-In order to prevent data from being lost or stolen, it is imperative that backups are made and updated to ensure that the user can get to the intact data if said data is corrupted or lost. Also of crucial importance is to ensure that security measures are made to protect the data from being stolen or hacked; data access controls handle what sort of people can view and edit the data, encryption can protect the data contents to appear unreadable to attackers and security layers such as passwords can ensure that no one can enter seamlessly. Locking up storage devices after work hours can prevent people from breaking and entering.
-
-#### 2.3 Social Engineering
+##### 2.1.3 Social Engineering
 Social Engineering is a practice that hackers can use to get unsuspecting users to reveal all sorts of information or even details that can aid the attacker in carrying out a network attack. This risk is made up of numerous methods the attacker can use into gaining these details, such as phishing, email scams, etc. Viruses can also make their way into the user’s PC via this method, mainly as an infected attachment via email scam that looks normal enough. This risk can not only be detrimental to the user’s machine, but to all machines that are connected, meaning that there is a chance that any unauthorized access can extend to other machines or a virus can infect other machines.
 
+#### 2.2 Assessment Procedures
+##### 2.2.1 Theft of Hardware
+To prevent hardware theft, the facility must be fitted with good security systems to prevent future break ins, time-locks or alarm systems. Lock up devices and keep them hidden to lower the chance of them being found and keep systems held tight with cables and heavy duty locks to prevent the systems from going mobile. If all fails, a hidden layer of security must be in place; system tracking software to maintain the position of where the systems are in the hands of the robber.
+
+##### 2.2.2 Data Loss/Theft
+In order to prevent data from being lost or stolen, it is imperative that backups are made and updated to ensure that the user can get to the intact data if said data is corrupted or lost. Also of crucial importance is to ensure that security measures are made to protect the data from being stolen or hacked; data access controls handle what sort of people can view and edit the data, encryption can protect the data contents to appear unreadable to attackers and security layers such as passwords can ensure that no one can enter seamlessly. Locking up storage devices after work hours can prevent people from breaking and entering.
+
+##### 2.2.3 Social Engineering
 A good method of prevention is for the user to be careful when browsing emails and not to click on random and unfamiliar links. Any form of messages or emails that request personal or sensitive information should be avoided and/or deleted, which can outright prevent any information being stolen and any unauthorized access. Should there be any concerns of a virus in the system from a user clicking on a malicious link, each system should in the workplace should have a full system scan immediately so the virus can be dealt with as soon as possible.
 
 ### 3. Threats in an organisation
