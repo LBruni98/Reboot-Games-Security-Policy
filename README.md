@@ -3,20 +3,30 @@
 ### Table of Contents
 ```
 1. Outline of Business
+  1.1 Overview
 2. Risks
   2.1 Theft of Hardware
   2.2 Data Loss/Theft
   2.3 Social Engineering
 3. Threats in an organisation
   3.1 Malware
+  3.2 Viruses
+  3.3 Spam
 4. ISO Standards
   4.1 ISO 31000
 5. Security Procedures
   5.1 Logging In
   5.2 Entering the Establishement
   5.3 Uploading Work
-6. Data Protection
-7. Disaster Recovery Plan
+6. The Impact of Poor Implementation
+  6.1 Firewall Policies
+  6.2 Third-Party VPNs
+7. Improving Network Security
+  7.1 DMZ
+  7.2 Static IP
+  7.3 NAT
+8. Data Protection
+9. Disaster Recovery Plan
 ```
 ### 1. Outline of Business
 #### 1.1 Overview
@@ -58,14 +68,21 @@ The ISO (International Standardization Organization) are an independent organiza
 The ISO 31000 is one of their standards dedicated towards risk management, made up of individual documents made to help an organization with managing risk and helps out in achieving objectives. ISO 31000:2009 is one of the guidelines that comes under ISO 31000, with how the business can manage risk and can be used by any business regardless of size or sector.
 
 ### 5. Security Procedures
-Security procedures are used to enforce the hazards that can be prominent in the workplace. These procedures usually are step-by-step instructions given to users for specific actions, such as logging in or entering the building
+Security procedures are used to enforce the hazards that can be prominent in the workplace. These procedures usually are step-by-step instructions given to users for specific actions, such as logging in or entering the building, mainly to ensure secuirty is in place, the workplace is effective and the employees are safe.
 
 #### 5.1 Logging In
-#### 5.2 Entering the Establishement
+#### 5.2 Entering the Establishment
 #### 5.3 Uploading Work
 
 ### 6. The Impact of Poor Implementation
+#### 6.1 Firewall Policies
+#### 6.2 Third-Party VPNs
+
 ### 7. Improving Network Security
+#### 7.1 DMZ
+#### 7.2 Static IP
+#### 7.3 NAT
+
 ### 8. Data Protection
 * process 
 * compliant with regulations
