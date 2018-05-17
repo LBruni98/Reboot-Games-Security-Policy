@@ -85,7 +85,14 @@ A Demilitarized Zone or DMZ, in computer network terms, is sub-network that can 
 The reason being that the DMZ is added as a layer of security is that as it blocks off the internal LAN, hackers can’t access the internal servers and data by means of the internet. Any service that can reached by the hacker, such as email, DNS, FTP, etc. are put into the DMZ, so any attack can mean that the private LAN is safe. A common way to do this is by having two firewalls, one for the internet and the server, and the other for the sever and the private LAN, where access to said LAN would be forbidden.
 
 #### 7.2 Static IP
+An IP address, or Internet Protocol address, is a unique number that is assigned to devices on a network and works the same way as a normal street address; identifying the device on the internet. IP addresses are used also for network devices to communicate with one another. A static IP address is manually configured for a device, unlike a dynamic one that changes with each network.
+
+Static IPs can ensure that high tier security measures to a stationary address, unlike dynamic IP addresses where the network is constantly changing and this can allow for professional level firewalls and other advanced security systems, being a huge step up from dynamic IPs that just offer a good starting point of security.
+
 #### 7.3 NAT
+NAT, or Network Address Translation, is where a network device is given a public address to computer within a private network and is designed to improve security within a network and to cut down on the number of IP addresses that an organization needs.
+
+What NAT does is hide the IP addresses of servers and computers on trusted networks from computers on other external networks. Should an attacker gain access, it would be hard to stage an attack on the computers as the IP addresses would be hidden from view by NAT.
 
 ### 8. Data Protection
 * process 
