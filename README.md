@@ -27,6 +27,11 @@
   7.3 NAT
 8. Data Protection
 9. Disaster Recovery Plan
+  9.1 Recovery Process
+  9.2 Defining Responsibilities
+  9.3 Regular Testing
+  9.4 Recovery Time
+  9.5 Communication Plan
 ```
 ### 1. Outline of Business
 #### 1.1 Overview
@@ -98,3 +103,8 @@ What NAT does is hide the IP addresses of servers and computers on trusted netwo
 * process 
 * compliant with regulations
 ### 9. Disaster Recovery Plan
+#### 9.1 Recovery Process
+#### 9.2 Defining Responsibilities
+#### 9.3 Regular Testing
+#### 9.4 Recovery Time
+#### 9.5 Communication Plan
