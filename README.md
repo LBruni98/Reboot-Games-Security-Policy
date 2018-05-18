@@ -81,6 +81,7 @@ Security procedures are used to enforce the hazards that can be prominent in the
 
 ### 6. The Impact of Poor Implementation
 #### 6.1 Firewall Policies
+Firewall policies 
 #### 6.2 Third-Party VPNs
 
 ### 7. Improving Network Security
@@ -103,8 +104,16 @@ What NAT does is hide the IP addresses of servers and computers on trusted netwo
 * process 
 * compliant with regulations
 ### 9. Disaster Recovery Plan
+The risks and threats within a business can at some points take hold and cause a catastrophic effect on the business, so it is important to plan to mitigate against loss and to ensure survival. The following key elements are important to the disaster recovery plan.
+
 #### 9.1 Recovery Process
+The recovery process defines what important assets need protecting in the event of disaster. These assets are what are needed for the business to run, so the efforts that go into the recovery must be prioritized into them. Other such applications or assets that are used but not important to the company can be tended afterwards. This component is important to be used within a recovery plan, because should the company not tend to these crucial assets, then that company will suffer with trying to replace and reobtain the assets or otherwise face shut down.
+
 #### 9.2 Defining Responsibilities
+Responsibilities to certain tasks should be made clear in the event of a disaster. These tasks in question are given to members of the organisation to work on so the issues are being addressed. By organising people to specific key roles, communication is improved and there is less stressed for those involved with the recovery process. This key component in the plan is crucial as for the systems and assets to be recovered successfully and orderly, roles will need to be assigned to ensure the recovery process goes smoothly and calmly. Should this not be in place, then the organization will end up in chaos trying to recover the important assets. 
+
 #### 9.3 Regular Testing
+Testing is done to ensure that the plan is still in full effect against shifting risks that can come up from time to time. As these risks are being familiarised, it is important for the plan to reflect on how to deal with these risks, so regularly testing the plan is essential for it to work properly and ensure the company the best chance of success in recovery.
+
 #### 9.4 Recovery Time
 #### 9.5 Communication Plan
