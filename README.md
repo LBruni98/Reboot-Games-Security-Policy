@@ -100,9 +100,25 @@ NAT, or Network Address Translation, is where a network device is given a public
 
 What NAT does is hide the IP addresses of servers and computers on trusted networks from computers on other external networks. Should an attacker gain access, it would be hard to stage an attack on the computers as the IP addresses would be hidden from view by NAT.
 
-### 8. Data Protection
-* process 
-* compliant with regulations
+### 8. Data Protection Procedures
+#### 8.1 Compliance with the Data Protection Act
+Reboot Games must ensure that employees and the organization must comply with the General Data Protection Regulation, UK Data Protection Act, 2018 and other sorts of data protection legislation. Reboot games are considered data controllers and the legislation applies here to the processing of personal data. All employees have a right to be informed about how all personal information is handled.
+
+The information that will be handled will include the job applications, employees of all nature, these being past, current or potential employees. This data will be collected in accordance under the legislation, GDPR, as well as the restrictions imposed on how we may use that information.
+
+Misuse of personal data, via loss, disclosure or failing to comply with the legislation and the rights of the employees, will result in any legal, financial or reputational consequence or damage. Any breach of law will result in urgent disciplinary action; penalties will be issued as well as loss of recruitment and income.
+
+#### 8.2 Procedure
+* All physical data will be kept in a secure place to prevent any unauthorised viewing. This applies to all sorts of data that can be presented physically and stored electronically.
+* Written or printed paper/files will be kept within a locked filing cabinet or drawer.
+* Employees will be responsible for any data printouts so that there is no unauthorised viewing as well as destroying any printouts that are no longer required.
+* With any data stored electronically, there must be strong protection, both physically and electronically to prevent any threats.
+* Data must have accessed assigned to specific employees and a strong password that is frequently changed. This applies to all digitally stored data.
+* In physical terms, data stored on removable peripherals will need to be locked away in a secure position when unused.
+* Data will not be stored directly to any laptops or other mobile devices. It will only be stored on a designated server located in a secure space.
+* Data backups will be carried out regularily.
+
+
 ### 9. Disaster Recovery Plan
 The risks and threats within a business can at some points take hold and cause a catastrophic effect on the business, so it is important to plan to mitigate against loss and to ensure survival. The following key elements are important to the disaster recovery plan.
 
