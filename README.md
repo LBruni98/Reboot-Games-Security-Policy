@@ -108,7 +108,7 @@ The information that will be handled will include the job applications, employee
 
 Misuse of personal data, via loss, disclosure or failing to comply with the legislation and the rights of the employees, will result in any legal, financial or reputational consequence or damage. Any breach of law will result in urgent disciplinary action; penalties will be issued as well as loss of recruitment and income.
 
-#### 8.2 Procedure
+#### 8.2 Procedures
 * All physical data will be kept in a secure place to prevent any unauthorised viewing. This applies to all sorts of data that can be presented physically and stored electronically.
 * Written or printed paper/files will be kept within a locked filing cabinet or drawer.
 * Employees will be responsible for any data printouts so that there is no unauthorised viewing as well as destroying any printouts that are no longer required.
@@ -117,7 +117,6 @@ Misuse of personal data, via loss, disclosure or failing to comply with the legi
 * In physical terms, data stored on removable peripherals will need to be locked away in a secure position when unused.
 * Data will not be stored directly to any laptops or other mobile devices. It will only be stored on a designated server located in a secure space.
 * Data backups will be carried out regularily.
-
 
 ### 9. Disaster Recovery Plan
 The risks and threats within a business can at some points take hold and cause a catastrophic effect on the business, so it is important to plan to mitigate against loss and to ensure survival. The following key elements are important to the disaster recovery plan.
