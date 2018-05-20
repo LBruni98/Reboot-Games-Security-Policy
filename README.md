@@ -157,4 +157,12 @@ Responsibilities to certain tasks should be made clear in the event of a disaste
 Testing is done to ensure that the plan is still in full effect against shifting risks that can come up from time to time. As these risks are being familiarised, it is important for the plan to reflect on how to deal with these risks, so regularly testing the plan is essential for it to work properly and ensure the company the best chance of success in recovery.
 
 #### 9.4 Recovery Time
+It is crucial that systems are restored as quickly as possible. Defining a time for the recovery of systems and data gives a clear estimate of when the disaster will be resolved.
+
+This element is key within a disaster recovery plan because it gives a clear maximum time for the disaster to be resolved, ensuring that all systems will be recovered as quickly as possible without delay. Should one system take long, all systems or data are at risk of being destroyed. This also helps by addressing the gaps in the plan and identifying the critical elements of the IT infrastructure, aiding in right recovery timeline.
+
 #### 9.5 Communication Plan
+A communication plan is in order during a recovery plan to ensure that employees are communicated. Questions are asked during the disaster, so a protocol on communicating to employees is key.
+
+This component is probably one of the most important as should any method of communication from the server be affected, there is a viable backup. It is also worth noting that a communication plan is key to reach employees and answer any questions or detail any orders, should they be helping those recovering the systems.
+
