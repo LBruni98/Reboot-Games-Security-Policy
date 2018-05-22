@@ -100,8 +100,16 @@ Security procedures are used to enforce the hazards that can be prominent in the
 
 ### 6. The Impact of Poor Implementation
 #### 6.1 Firewall Policies
-Firewall policies 
+A Firewall Policy or firewall rules are rules to determine if network traffic should be allowed through or not. There are actions with the rules that the firewall can act on the traffic; the actions are to accept traffic through, to reject the traffic by blocking it and returning an error or to drop the traffic by blocking it and not to respond with an error.
+
+There is a default policy that is used when a chain of firewall rules doesn’t cover every possible condition. This default policy is commonplace and consists of only one of any action.
+
+A poorly configured Firewall will impose a significant amount of threat to the system. For instance, if the firewall was configured to let in all traffic, then it risks bringing in traffic from outside sources to which a potential attacker can gain access easily. This is the same if not only access to a web server, but also to any destination and doesn’t deny any traffic whatsoever.
+
 #### 6.2 Third-Party VPNs
+A VPN, known as Virtual Private Network, is a system that is added as a layer to network security, both to private and public networks. This allows for users or part of an organisation to send and receive data while in the private network, allowing for web browsing in private. The technology creates a safe encryption over less secure networks, however to gain access to the VPN, users must use authentication methods.
+
+Third Party VPNs can be risky, as some providers could leak data from the private network, which can impact the company. Most data in the private network is sensitive, so any leak would be fatal to the organization using it. Also, as the VPN is used in a public network as well, meaning that any data being transferred through a private network would mean that it is a risk that it would end up into a public network.
 
 ### 7. Improving Network Security
 #### 7.1 DMZ
