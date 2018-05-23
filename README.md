@@ -20,7 +20,7 @@
   5.1 Awareness and Prevention
   5.2 Logging In
   5.3 Entering the Establishement
-6. The Impact of Poor Implementation
+6. The Impact of Poor Configuration
   6.1 Firewall Policies
   6.2 Third-Party VPNs
 7. Improving Network Security
