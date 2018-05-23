@@ -141,7 +141,7 @@ Security procedures are used to enforce the hazards that can be prominent in the
 
 * All employees must park in the applicable car park behind the building.
 
-### 6. The Impact of Poor Implementation
+### 6. The Impact of Poor Configuration
 #### 6.1 Firewall Policies
 A Firewall Policy or firewall rules are rules to determine if network traffic should be allowed through or not. There are actions with the rules that the firewall can act on the traffic; the actions are to accept traffic through, to reject the traffic by blocking it and returning an error or to drop the traffic by blocking it and not to respond with an error.
 
