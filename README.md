@@ -2,8 +2,12 @@
 
 ### Table of Contents
 ```
-1. Outline of Business
-  1.1 Overview
+1. Introduction
+  1.1 Policy Overview
+  1.2 Overview
+  1.3 Structure
+  1.4 Hardware Used
+  1.5 Nature of Work
 2. Risks
   2.1 Theft of Hardware
   2.2 Data Loss/Theft
@@ -26,6 +30,8 @@
   7.2 Static IP
   7.3 NAT
 8. Data Protection
+  8.1 Compliance with the Data Protection Act
+  8.2 Procedures
 9. Disaster Recovery Plan
   9.1 Recovery Process
   9.2 Defining Responsibilities
@@ -33,9 +39,18 @@
   9.4 Recovery Time
   9.5 Communication Plan
 ```
-### 1. Outline of Business
-#### 1.1 Overview
+### 1. Introduction
+#### 1.1 Policy Overview
+This policy outlines Reboot Game’s approach to security procedures and management. Within this policy contains the guidelines and details to ensure protection of the information systems in this business. The information systems in Reboot Games are crucial towards the work we produce as well as the communication between the staff.
 
+The aim of this policy is to ensure protection from threats that are a risk to data and the infrastructure and to ensure that these guidelines are followed to ensure an effective and safe workplace. It is also imperative that employees should also understand the risks that is associated with the security as well as ensure good planning to prevent these risks and threats.
+
+#### 1.2 Outline of Business
+
+
+#### 1.3 Structure
+#### 1.4 Hardware Used
+#### 1.5 Nature of Work
 ### 2. Risk Assessment
 #### 2.1 Risks in an Organisation
 ##### 2.1.1 Theft of Hardware
