@@ -14,7 +14,6 @@
 3. Threats in an organisation
   3.1 Malware
   3.2 Viruses
-  3.3 Spam
 4. ISO Standards
   4.1 ISO 31000
 5. Security Procedures
@@ -100,7 +99,9 @@ Malware is seen as a common threat in organizations. It takes the form of applic
 Trojans are the more dangerous form of malware, acting as normal software in presentation and could come along with sites that look authentic. When the user downloads them, they expect a proper program but as soon as they open it, the payload is active and can instantly infect or damage a computer.
 
 #### 3.2 Viruses
-#### 3.3 Spam
+A computer virus is malicious code or software used to tamper with the computer’s operation and spreads from computer to computer. It works by attaching itself to files or programs that support macros in order to execute its code by just having the user click on it. Once the virus has been executed, it can cause damaging effects to the files or system, by harming the software or outright corrupting or destroying data.
+
+Viruses can spread through emails, internet files and social media scams and often disguise themselves as normal files, much like a Trojan file, but not to the point of replicating a program and rather images or video files.
 
 ### 4. ISO Standards
 The ISO (International Standardization Organization) are an independent organization dedicated to creating standards in every industry. These standards are mainly guidelines for products, services and systems to ensure safety, efficiency and quality, even encouraging innovation and aids in providing solutions.
