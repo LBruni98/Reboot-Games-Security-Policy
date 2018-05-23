@@ -7,7 +7,6 @@
   1.2 Overview
   1.3 Structure
   1.4 Hardware Used
-  1.5 Nature of Work
 2. Risks
   2.1 Theft of Hardware
   2.2 Data Loss/Theft
@@ -46,11 +45,33 @@ This policy outlines Reboot Game’s approach to security procedures and managem
 The aim of this policy is to ensure protection from threats that are a risk to data and the infrastructure and to ensure that these guidelines are followed to ensure an effective and safe workplace. It is also imperative that employees should also understand the risks that is associated with the security as well as ensure good planning to prevent these risks and threats.
 
 #### 1.2 Outline of Business
-
+The business involved in this policy is Reboot Games, a company that specializes in game theory, design and development. This company is preliminarily focused on the revival and remastering of older and much classic games, with emphasis on revitalising them for the modern market, as well as software development within other businesses.
 
 #### 1.3 Structure
+The Reboot Games business structure consists of two owners and thirteen employees. Each employee has a different role and the same level access, this means access to the office and the hardware needed to develop the games. The owners oversee the development of projects and have access to higher level clearance with admin privileges. Projects by default are developed in the SCRUM methodology and run within weekly sprints, only changing methodology if complexity or risk involved.
+
 #### 1.4 Hardware Used
-#### 1.5 Nature of Work
+The company uses state-of-the-art PCs in order to ensure smooth development and the software run at maximum performance. The office has 21 PCs; 20 for employees and 1 for the owner. Laptops are also used for mobile working and as a backup if the desktop units have been used up. An arcade machine is used for testing the games as well as development kit consoles, used for the same purpose.
+
+##### 1.4.1 PC Specifications
+|Component|Specification|
+|---------|-------------|
+|Operating System|Windows 10 Enterprise 2016 LTSB|
+|OS Version|1607|
+|Display Adapter|NVIDIA GeForce GTX 1060 6GB|
+|RAM|16GB|
+|Processor|Intel® Core™ i7-7700 CPU @ 3.60GHz|
+|System|64-bit operating system, x64 based-based processor|
+
+#### 1.5 Software Used
+Listed below are the following software used for the development of games, coding and designing visuals. Other software is used as alternatives to this as well as using said software for experimental purposes.
+
+|Software|Version|
+|--------|-------|
+|Unity|2017.3.1f1B|
+|Visual Studio Professional 2017|Version 15.2 Release|
+|Photoshop CC|2017.1.1|
+
 ### 2. Risk Assessment
 #### 2.1 Risks in an Organisation
 ##### 2.1.1 Theft of Hardware
@@ -76,7 +97,7 @@ A good method of prevention is for the user to be careful when browsing emails a
 #### 3.1 Malware
 Malware is seen as a common threat in organizations. It takes the form of applications or software but uses that as a front to hide its code or actual software inside and common forms include viruses, worms or ultimately, Trojans. These function differently though; viruses spread without the user's knowledge or consent or with key loggers that can track the users key strokes to gain access to information.
 
-Trojans are the more dangerous form of malware, acting as normal software in presentation and could come along with sites that look authentic. When the user downloads them, they expect a proper program but as soon as they open it, the payload is active and can instantly infect or damage a computer 
+Trojans are the more dangerous form of malware, acting as normal software in presentation and could come along with sites that look authentic. When the user downloads them, they expect a proper program but as soon as they open it, the payload is active and can instantly infect or damage a computer.
 
 #### 3.2 Viruses
 #### 3.3 Spam
@@ -107,6 +128,12 @@ Security procedures are used to enforce the hazards that can be prominent in the
 * It is imperative for employees to ensure an ID card, given by Reboot Games, remains on their person. The login username is located also on the ID card. The password is the user’s date of birth, unless changed by the user themselves.
 
 * All logins must be made by the correct user with the correct ID.
+
+* Passwords within the organisation by default are each employees’ date of birth. It is mandatory to change this once first logged in.
+
+* Passwords must be at least eight characters in length, at least one Uppercase letter and one number.
+
+* Passwords must be changed once each month.
 
 #### 5.3 Entering the Establishment
 * Employees are issued with Identification cards and all employees are eligible in order to gain access into the grounds and other rooms, which are all within a certain level to access. ID cards are also used for any registration and login detail. All users must ensure protection of these ID cards and must not loan to other employees for access or any other purpose. Any ID card misuse will be met with disciplinary action from the company.
